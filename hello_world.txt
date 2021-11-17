@@ -1,0 +1,7 @@
+
+My first github repo
+hello odin
+ 
+ hello 
+ this is nick
+ 
